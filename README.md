@@ -2,10 +2,10 @@
 # :clipboard: 목차
 
 - :books: <a href="#outline">개요</a>
-- :wrench: <a href="#tech">기술스택</a>
-- :scroll: <a href="#tech">ERD 다이어그램</a>
-- :family: <a href="#team">팀원소개</a>
-- :bookmark_tabs: <a href="#function">기능구현</a>
+- :wrench: <a href="#tech">기술 스택</a>
+- :scroll: <a href="#erd">ERD(Entity-Relation Diagram)</a>
+- :family: <a href="#team">팀원 역할 소개</a>
+- :bookmark_tabs: <a href="#function">기능 구현 시연 영상</a>
   - 홈화면
   - 1.&nbsp;로그인
   	- 1-1. 회원가입
@@ -43,19 +43,19 @@
 <br/>
 <img src="https://github.com/pknu05/Final-Project/assets/44632544/3af41267-72d3-48ff-8dfd-aac0d62ae130"><br/><br/>
 
->**프로젝트**: 원데이클래스 사이트
+> **프로젝트** : 원데이클래스 매칭 플랫폼
 >
->**기획 및 제작** : 스페셜데이
+> **기획 및 제작** : 스페셜데이
 >
->**분류**: 팀프로젝트
+> **분류** : 팀 프로젝트
 >
->**제작 기간**: 2023.05.19 ~ 2023.06.13
+> **제작 기간** : 2023.05.15 ~ 2023.06.13
 >
->**프로젝트 주제**: 바쁜 일상속에서 자신에게 특별한 하루를 선물해줄 수 있는 원데이클래스 사이트 제작 
+> **프로젝트 주제** : 바쁜 일상속에서 자신에게 특별한 하루를 선물해줄 수 있는 원데이클래스 웹 애플리케이션 제작
 
 <br/>
 
-# :wrench: <a name="tech">기술스택</a>
+# :wrench: <a name="tech">기술 스택</a>
 <h4>데이터베이스</h4>
 <div align="left">
    <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -93,7 +93,7 @@
    <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
-# :scroll: <a name="team">ERD</a>
+# :scroll: <a name="erd">ERD</a>
 
 ## 전체 ERD
 
@@ -103,11 +103,11 @@
 
 <img src="https://github.com/pknu05/Final-Project/assets/123917210/e6a68e07-16cc-470d-99e6-c9eddb188595" />
 
-## 일정등록 및 신청
+## 일정 등록 및 신청
 
 <img src="https://github.com/pknu05/Final-Project/assets/123917210/4c9bcf23-48ef-40d5-ae1d-5969c36910f1" />
 
-## 신청상태 및 리뷰
+## 신청 및 리뷰 내역
 
 <img src="https://github.com/pknu05/Final-Project/assets/123917210/a01b51af-2c8b-408d-a6c6-af09dd772cd1" />
 
@@ -119,47 +119,47 @@
 
 <img src="https://github.com/pknu05/Final-Project/assets/123917210/67f25d40-93e0-418a-9e13-48689dd23afa" />
 
-## 신청/문의 알람
+## 신청/문의 알림
 
 <img src="https://github.com/pknu05/Final-Project/assets/123917210/3d43d89b-d764-42cb-b298-f888a1499dab" />
 <br/><br/>
 
-# :family: <a name="team">팀원 역할 및 소개</a>
+# :family: <a name="team">팀원 역할 소개</a>
 <div><br/>
 	
 <h3>● 서명호</h3>
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-end : 회원정보수정, 클래스 검색(조회), 신청/문의 알림, 이메일 인증, 클래스 신청, 결제
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-end : 메인페이지(header), 클래스검색 페이지, 클래스상세 페이지
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 로그인, 로그아웃, 클래스 검색(목록/지도), 신청/문의 알림, 이메일 인증, 클래스 신청&결제, 클래스 문의 답변, 계정 관리(정보 수정, 비밀번호 변경, 회원 탈퇴)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 헤더, 클래스 검색 페이지, 클래스 상세 페이지
 
 <h3>● 김은정</h3>
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-end :  클래스 등록, 클래스 수정, 클래스 목록조회, 문의내역 조회(판매자), 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-end : 메인페이지, 클래스등록 페이지, 클래스관리 페이지, 문의내역(판매자)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End :  클래스 등록/수정/삭제, 내 클래스 조회, 클래스 활성/비활성, 문의 접수 내역 조회 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 홈, 클래스 등록 페이지, 클래스 관리 페이지
 
 <h3>● 이성희</h3>
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-end : 클래스 승인, 클래스 활성/비활성, 일정등록 및 조회, 일정수정 및 삭제, 클래스 참여승인 	
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-end : 마이페이지, 일정관리 페이지, 신청관리 페이지, 관리자 페이지
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End :  클래스 일정 등록 및 조회, 일정 수정 및 삭제, 클래스 신청 인원 관리, 클래스 관리자 승인 	
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 마이페이지, 일정 관리 페이지, 신청 관리 페이지, 관리자 페이지
 
 <h3>● 박성주</h3>
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-end : 로그인, 아이디/비번번호 찾기, 회원탈퇴, 커뮤니티 관리, 댓글등록
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-end : 로그인 페이지, 아이디/비밀번호 찾기페이지, 커뮤니티 페이지 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 회원가입, 아이디 찾기, 커뮤니티, 댓글
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-end : 회원가입 페이지, 로그인 페이지, 아이디 찾기 모달, 커뮤니티 
 
 <h3>● 천현빈</h3>
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-end : 장바구니 추가, 장바구니 수정 및 삭제, 장바구니 조회, 결제정보 조회
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-end : 장바구니 페이지, 결제확인 페이지, 결제완료 페이지
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 장바구니 추가/조회/삭제, 클래스 신청
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 장바구니 페이지, 결제 페이지, 결제 완료 페이지
 
 <h3>● 이재호</h3>
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-end : 신청 내역조회, 결제 상세정보, 리뷰내역 조회, 리뷰 상세보기, 리뷰추천
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-end : 마이페이지, 신청목록 페이지, 리뷰목록 페이지, 결제상세 페이지, 리뷰상세 페이지
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 신청 내역 조회, 리뷰 작성, 리뷰 내역 조회, 리뷰 추천
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 마이페이지 신청 및 리뷰 내역 상세 정보 모달
 
 </div><br/>
 
-# :bookmark_tabs: <a name="function">기능구현</a>
+# :bookmark_tabs: <a name="function">기능 구현 시연 영상</a>
 <br/>
 
 # 홈 화면
