@@ -91,7 +91,7 @@
 
 ## 신청 및 리뷰 내역(본인)
 
-<img src="https://github.com/pknu05/Final-Project/assets/123917210/a01b51af-2c8b-408d-a6c6-af09dd772cd1" />
+<img src="https://github.com/Chokeys/Portfolio_first/assets/123917210/c4b287be-7d05-48f8-a8f5-505ad157addf" />
 
 ## 커뮤니티
 
