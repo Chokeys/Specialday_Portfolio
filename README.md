@@ -6,12 +6,12 @@
 - :scroll: <a href="#erd">ERD(Entity-Relation Diagram)</a>
 - :family: <a href="#team">팀원 역할 소개</a>
 - :bookmark_tabs: <a href="#function">기능 구현</a>
-	- 맡은 역할
+	- <a href="#me">맡은 역할
    		- 신청 및 리뷰 목록 조회
    		- 상세보기(모달)
    		- 리뷰 작성
    		- 리뷰 추천
-	- 팀원 역할 학습
+	- <a href="#temes">팀원 역할 학습
    		- 로그인 및 회원가입
    		- 클래스 등록
    		- 클래스 검색
@@ -107,10 +107,39 @@
 <br/><br/>
 
 # :family: <a name="team">팀원 역할 소개</a>
-<div><br/>
 
-<img src="https://github.com/Chokeys/Portfolio_first/assets/123917210/b9e938c8-8677-464c-bb80-c602251d718c" />
+<div>
+<div align="right">
+<img src="https://github.com/Chokeys/Portfolio_first/assets/123917210/cb2bfd38-1d87-446a-85d2-24fbbc6086fb" />
+</div>
+<h3>● 서명호</h3>
 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 로그인, 로그아웃, 클래스 검색(목록/지도), 신청/문의 알림, 이메일 인증, 클래스 신청&결제, 클래스 문의 답변, 계정 관리(정보 수정, 비밀번호 변경, 회원 탈퇴)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 헤더, 클래스 검색 페이지, 클래스 상세 페이지
+
+<h3>● 김은정</h3>
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End :  클래스 등록/수정/삭제, 내 클래스 조회, 클래스 활성/비활성, 문의 접수 내역 조회 
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 홈, 클래스 등록 페이지, 클래스 관리 페이지
+
+<h3>● 이성희</h3>
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End :  클래스 일정 등록 및 조회, 일정 수정 및 삭제, 클래스 신청 인원 관리, 클래스 관리자 승인 	
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 마이페이지, 일정 관리 페이지, 신청 관리 페이지, 관리자 페이지
+
+<h3>● 박성주</h3>
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 회원가입, 아이디 찾기, 커뮤니티, 댓글
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-end : 회원가입 페이지, 로그인 페이지, 아이디 찾기 모달, 커뮤니티 
+
+<h3>● 천현빈</h3>
+
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 장바구니 추가/조회/삭제, 클래스 신청
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 장바구니 페이지, 결제 페이지, 결제 완료 페이지
+
+<div align="left">
+<img src="https://github.com/Chokeys/Portfolio_first/assets/123917210/3ee88865-3b73-46a0-8625-054986c2b7c0" />
+</div>
 </div><br/>
 
 # :bookmark_tabs: <a name="function">기능 구현 시연 영상</a>
