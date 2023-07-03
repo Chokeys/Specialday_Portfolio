@@ -5,35 +5,17 @@
 - :wrench: <a href="#tech">기술 스택</a>
 - :scroll: <a href="#erd">ERD(Entity-Relation Diagram)</a>
 - :family: <a href="#team">팀원 역할 소개</a>
-- :bookmark_tabs: <a href="#function">기능 구현 시연 영상</a>
-  - 홈화면
-  - 1.&nbsp;로그인
-  	- 1-1. 회원가입
-   	- 1-2. 아이디 찾기
-	- 1-3. 비밀번호 찾기
-  - 2.&nbsp;클래스 등록
-   	- 2-1. 클래스 등록
-	- 2-2. 클래스 승인(관리자)
-	- 2-3. 클래스 상세정보 조회
-  - 3.&nbsp;일정 및 신청관리
-  	- 3-1. 일정관리
-	- 3-2. 신청관리
-  - 4.&nbsp;클래스 검색 및 조회
-	- 4-1. 클래스검색(지역, 카테고리, 날짜, 난이도, 가격)
-	- 4-2. 클래스검색(지도)
-  - 5.&nbsp;클래스 신청 및 결제
-	- 5-1. 클래스 신청(장바구니)
-	- 5-2. 클래스 신청(결제)
-  - 6.&nbsp;신청/리뷰내역 조회
-	- 6-1. 신청 내역 상세보기
-	- 6-2. 리뷰 작성
-	- 6-3. 리뷰 추천 
-  - 7.&nbsp;커뮤니티(게시글 및 댓글 작성)
-  - 8.&nbsp;신청/문의 알림
-	- 8-1. 클래스 신청 알림(판매자)
-	- 8-2. 클래스 문의 알림(판매자)
-	- 8-3. 클래스 문의 답변완료 알림(구매자)
-    
+- :bookmark_tabs: <a href="#function">기능 구현</a>
+	- 맡은 역할
+   		- 신청 및 리뷰 목록 조회
+   		- 상세보기(모달)
+   		- 리뷰 작성
+   		- 리뷰 추천
+	- 팀원 역할 학습
+   		- 로그인 및 회원가입
+   		- 클래스 등록
+   		- 클래스 검색
+		- 문의 답변 	
 - :bulb: <a href="#result">결론</a>
 - :mag_right: <a href="#fullfill">보완할점</a>
 - :bookmark: <a href="#url">배포</a><br/>
@@ -52,7 +34,8 @@
 > **제작 기간** : 2023.05.15 ~ 2023.06.13
 >
 > **프로젝트 주제** : 바쁜 일상속에서 자신에게 특별한 하루를 선물해줄 수 있는 원데이클래스 웹 애플리케이션 제작
-
+>
+>  **담당 기능** : 신청 및 리뷰 목록 조회, 상세보기(모달), 리뷰 등록, 리뷰 추천 
 <br/>
 
 # :wrench: <a name="tech">기술 스택</a>
@@ -60,7 +43,6 @@
 <div align="left">
    <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
    <img src="https://img.shields.io/badge/H2-232F3E?style=for-the-badge&logo=h2&logoColor=white" />
-   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </div> 
 <h4>백엔드</h4>
 <div align="left">
@@ -107,7 +89,7 @@
 
 <img src="https://github.com/pknu05/Final-Project/assets/123917210/4c9bcf23-48ef-40d5-ae1d-5969c36910f1" />
 
-## 신청 및 리뷰 내역
+## 신청 및 리뷰 내역(본인)
 
 <img src="https://github.com/pknu05/Final-Project/assets/123917210/a01b51af-2c8b-408d-a6c6-af09dd772cd1" />
 
