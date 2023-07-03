@@ -221,7 +221,7 @@
 - <a href="https://specialday2023.notion.site/Final-Project-251201f80c3b4e9fa23f87bb40ab21cd" target="_blank">요구사항기능 정의</a>
 - <a href="https://specialday2023.notion.site/b9d4f6402b074a91b2e83b26aa439b2e?v=2a94e975195143adb0b62fdf79ea246f&pvs=4" target="_blank">작업 및 역할 분담</a>
 - <a href="https://specialday2023.notion.site/4f6d020b3c114df5bf9f69cdde1cef67?v=9d824e8ffb734fc89cbd1ce01fdff422&pvs=4" target="_blank">스크럼</a>
-  
+- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 # :bookmark: <a name="url">배포</a>
 <a href="http://43.202.51.94:8080/specialday/home.do" targat="_blank">Specialday Web Page</a>
 - AWS EC2에 배포
