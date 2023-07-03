@@ -108,36 +108,8 @@
 
 # :family: <a name="team">팀원 역할 소개</a>
 <div><br/>
-	
-<h3>● 서명호</h3>
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 로그인, 로그아웃, 클래스 검색(목록/지도), 신청/문의 알림, 이메일 인증, 클래스 신청&결제, 클래스 문의 답변, 계정 관리(정보 수정, 비밀번호 변경, 회원 탈퇴)
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 헤더, 클래스 검색 페이지, 클래스 상세 페이지
-
-<h3>● 김은정</h3>
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End :  클래스 등록/수정/삭제, 내 클래스 조회, 클래스 활성/비활성, 문의 접수 내역 조회 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 홈, 클래스 등록 페이지, 클래스 관리 페이지
-
-<h3>● 이성희</h3>
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End :  클래스 일정 등록 및 조회, 일정 수정 및 삭제, 클래스 신청 인원 관리, 클래스 관리자 승인 	
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 마이페이지, 일정 관리 페이지, 신청 관리 페이지, 관리자 페이지
-
-<h3>● 박성주</h3>
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 회원가입, 아이디 찾기, 커뮤니티, 댓글
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-end : 회원가입 페이지, 로그인 페이지, 아이디 찾기 모달, 커뮤니티 
-
-<h3>● 천현빈</h3>
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 장바구니 추가/조회/삭제, 클래스 신청
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 장바구니 페이지, 결제 페이지, 결제 완료 페이지
-
-<h3>● 이재호</h3>
-
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Back-End : 신청 내역 조회, 리뷰 작성, 리뷰 내역 조회, 리뷰 추천
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 마이페이지 신청 및 리뷰 내역 상세 정보 모달
+<img src="https://github.com/Chokeys/Portfolio_first/assets/123917210/b9e938c8-8677-464c-bb80-c602251d718c" />
 
 </div><br/>
 
