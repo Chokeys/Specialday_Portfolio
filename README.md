@@ -217,9 +217,10 @@
 프로젝트 진행 중, 팀원들과 원활한 의사소통을 위해 노션을 활용하였습니다. 각자의 역할과 책임을 명확히 정의하고, 노션을 활용하여 그 내용을 체계적으로 관리했습니다. 
 또한 매주 1~2회씩 회의를 가져 의견을 공유하고 서로에게 피드백을 주고받았습니다.
 
-- [요구사항기능 정의](https://specialday2023.notion.site/d8571c2fdf8f46979c2396fd845f0888?v=6fec74e595d04d76bc0055b25023000c&pvs=4)
-- [작업 및 역할 분담](https://specialday2023.notion.site/b9d4f6402b074a91b2e83b26aa439b2e?v=2a94e975195143adb0b62fdf79ea246f&pvs=4)
-- [스크럼](https://specialday2023.notion.site/4f6d020b3c114df5bf9f69cdde1cef67?v=9d824e8ffb734fc89cbd1ce01fdff422&pvs=4)
+
+- <a href="https://specialday2023.notion.site/Final-Project-251201f80c3b4e9fa23f87bb40ab21cd" target="_blank">요구사항기능 정의</a>
+- <a href="http://52.79.248.26:8080/specialday/home.do" target="_blank">작업 및 역할 분담</a>
+- <a href="http://52.79.248.26:8080/specialday/home.do" target="_blank">스크럼</a>
   
 # :bookmark: <a name="url">배포</a>
 <a href="http://52.79.248.26:8080/specialday/home.do">Specialday Web Page</a>
