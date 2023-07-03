@@ -6,15 +6,14 @@
 - :scroll: <a href="#erd">ERD(Entity-Relation Diagram)</a>
 - :family: <a href="#team">팀원 역할 소개</a>
 - :bookmark_tabs: <a href="#function">기능 구현</a>
-	- <a href="me">맡은 역할</a>
+	- <a href="#me">맡은 역할</a>
    		- 신청 및 리뷰 목록 조회
    		- 리뷰 작성
    		- 리뷰 추천
-	- <a href="teams">팀원 역할 학습</a>
+	- <a href="#teams">팀원 역할 학습</a>
    		- 로그인 및 회원가입 
    		- 클래스 등록
-   		- 클래스 검색
-		- 문의 답변 	
+   		- 클래스 검색	
 - :bulb: <a href="#result">결론</a>
 - :mag_right: <a href="#fullfill">보완할점</a>
 - :bookmark: <a href="#url">배포</a><br/>
@@ -191,13 +190,6 @@
 <img src="https://github.com/pknu05/Final-Project/assets/123917210/5073306d-2e91-47eb-96bc-b1bffbce5389"> <br/><br/>
 - 검색 옵션 ( 지역 분류, 클래스 분류, 날짜, 난이도, 가격 ) 선택 후, 해당 조건에 맞는 클래스 목록 검색
 - Pagination을 이용하여 조건으로 검색된 클래스의 목록을 조회
-<br/>
-
-## &nbsp;&nbsp;2-4. 문의 등록 및 답변
-
-<img src=""> <br/><br/>
-- 1
-- 2
 <br/>
 
 # :bulb: <a name="result">결론</a>
