@@ -16,7 +16,7 @@
    		- 클래스 검색	
 - :bulb: <a href="#result">결론</a>
 - :mag_right: <a href="#fullfill">보완할점</a>
-- :loudspeaker: <a href="#communication">팀원과의 소통</a><br/>
+- :speaker: <a href="#communication">팀원과의 소통</a><br/>
 - :bookmark: <a href="#url">배포</a><br/>
 
 
@@ -212,7 +212,7 @@
 - 반응형 웹을 이용하여 사이즈에 따른 페이지 깨짐이 없었어야한 점
 - 스크립트와 css의 버전 혹은 위치가 달라 페이지의 기능과 스타일 정상적으로 수행이 되지 않았던 점
 
-# :loudspeaker: <a name="communication">팀원과의 소통</a>
+# :speaker: <a name="communication">팀원과의 소통</a>
 
 프로젝트 진행 중, 팀원들과 원활한 의사소통을 위해 노션을 활용하였습니다. 각자의 역할과 책임을 명확히 정의하고, 노션을 활용하여 그 내용을 체계적으로 관리했습니다. 
 또한 매주 1~2회씩 회의를 가져 의견을 공유하고 서로에게 피드백을 주고받았습니다."
