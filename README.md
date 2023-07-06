@@ -146,7 +146,7 @@
 
 # 홈 화면
 
-<img src="https://github.com/pknu05/Final-Project/assets/123917210/ed817021-bec0-4326-8095-33406b9dd377"><br/><br/>
+<img src="https://github.com/Chokeys/Portfolio_first/blob/main/home.gif?raw=true"><br/><br/>
 
 # 1. <a name="me">담당 기능
 ## &nbsp;&nbsp;1-1. 신청 내역 조회(상세보기)
