@@ -78,7 +78,7 @@
 
 ## 전체 ERD
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/전체erd.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/전체erd.png?raw=true"> <br/><br/>
 
 ## 클래스 등록
 
