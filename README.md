@@ -90,7 +90,7 @@
 
 ## 신청 및 리뷰 내역(본인)
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/신청 및 리뷰 내역.png?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/신청 및 리뷰 내역1.png?raw=true"> <br/><br/>
 
 ## 커뮤니티
 
