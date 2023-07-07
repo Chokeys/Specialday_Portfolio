@@ -21,8 +21,8 @@
 
 
 # :books: <a name="outline">개요</a>
-<br/>
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/%EA%B0%9C%EC%9A%94.jpg?raw=true"><br/><br/>
+
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/%EA%B0%9C%EC%9A%94.jpg?raw=true">
 
 > **프로젝트** : 원데이클래스 매칭 플랫폼
 >
@@ -90,7 +90,7 @@
 
 ## 신청 및 리뷰 내역(본인)
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/신청 및 리뷰 내역1.png?raw=true"> <br/><br/>
+
 
 ## 커뮤니티
 
