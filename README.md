@@ -78,31 +78,31 @@
 
 ## 전체 ERD
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/전체 erd.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/전체erd.gif?raw=true"> <br/><br/>
 
 ## 클래스 등록
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/클래스 등록.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/클래스등록.png?raw=true"> <br/><br/>
 
 ## 일정 등록 및 신청
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/일정 등록 및 신청.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/일정 등록 및 신청.png?raw=true"> <br/><br/>
 
 ## 신청 및 리뷰 내역(본인)
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/신청 및 리뷰 내역(본인).gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/신청 및 리뷰 내역.png?raw=true"> <br/><br/>
 
 ## 커뮤니티
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/커뮤니티.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/커뮤니티.png?raw=true"> <br/><br/>
 
 ## 클래스 문의
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/클래스 문의.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/클래스 문의.png?raw=true"> <br/><br/>
 
 ## 신청/문의 알림
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/신청/문의 알림.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/신청-문의 알림.png?raw=true"> <br/><br/>
 <br/><br/>
 
 # :family: <a name="team">팀원 역할 소개</a>
@@ -151,20 +151,20 @@
 # 1. <a name="me">담당 기능
 ## &nbsp;&nbsp;1-1. 신청 내역 조회(상세보기)
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/7-1.신청 내역 조회(상세보기).gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/7-1. 신청 내역 조회(상세보기).gif?raw=true"> <br/><br/>
 - Pagination을 이용하여 내가 신청한 클래스를 결제완료, 결제취소, 참여완료에 따라 조회
 - 결제상태에 따라 상세보기시 나오는 결제내역 변경(신청취소시 취소정보 표시)
 
 ## &nbsp;&nbsp;1-2. 리뷰 작성
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/7-1.리뷰 작성.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/7-2. 리뷰 작성.gif?raw=true"> <br/><br/>
 - 참여완료 상태일때만 리뷰등록 버튼 활성화
 - 평점 1~5 입력 (radio 타입 사용), 내용 입력(Quill editor 사용), 이미지 첨부(개수 제한) 후 DB에 저장
 - Pagination을 이용하여 내가 작성한 리뷰 내역 전체,날짜순 조회 
 
 ## &nbsp;&nbsp;1-3. 리뷰 추천
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/7-1.리뷰 추천.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/7-3. 리뷰 추천.gif?raw=true"> <br/><br/>
 
 - 클래스 상세페이지에서 리뷰조회 가능
 - Rest Api를 활용하여 추천해요 버튼 클릭시 해당하는 리뷰 조회수 증가
@@ -173,7 +173,7 @@
 # 2. <a name="teams">팀원 기능(학습)
 ## &nbsp;&nbsp;2-1. 로그인 및 회원가입
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/1-1.회원가입.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/1-1. 회원가입.gif?raw=true"> <br/><br/>
 - 입력한 아이디와 비밀번호, 연락처와 같은 개인정보를 DB에 insert하여 회원가입 기능 구현
 - MemberController로 DB에 저장
 - 중복된 아이디, 탈퇴한 아이디에 대해서는 사용불가 알림이 뜨도록 유효성 검사 추가
@@ -181,7 +181,7 @@
 
 ## &nbsp;&nbsp;2-2. 클래스 등록
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/클래스 등록.gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/2-1. 클래스 등록.gif?raw=true"> <br/><br/>
 - KakaoLocal API를 이용하여 주소 기반 위도, 경도 값을 반환(Map)
 - Quill editor를 이용하여 강사소개, 클래스 내용, 커리큘럼을 DB에 등록
 - input태그에 multifile 옵션을 추가, 이미지 여러장 등록 가능
@@ -189,7 +189,7 @@
 
 ## &nbsp;&nbsp;2-3. 클래스검색(지역, 카테고리, 날짜, 난이도, 가격)
 
-<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/2-3. 클래스검색(지역, 카테고리, 날짜, 난이도, 가격).gif?raw=true"> <br/><br/>
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/5-1. 클래스검색(지역, 카테고리, 날짜, 난이도, 가격).gif?raw=true"> <br/><br/>
 - 검색 옵션 ( 지역 분류, 클래스 분류, 날짜, 난이도, 가격 ) 선택 후, 해당 조건에 맞는 클래스 목록 검색
 - Pagination을 이용하여 조건으로 검색된 클래스의 목록을 조회
 <br/>
