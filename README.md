@@ -109,7 +109,7 @@
 
 <div>
 <div align="right">
-<img src="https://github.com/Chokeys/Portfolio_first/assets/123917210/cb2bfd38-1d87-446a-85d2-24fbbc6086fb" />
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/역할.png?raw=true"> <br/><br/>
 </div>
 <h3>● 서명호</h3>
 
@@ -137,7 +137,7 @@
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Front-End : 장바구니 페이지, 결제 페이지, 결제 완료 페이지
 
 <div align="left">
-<img src="https://github.com/Chokeys/Portfolio_first/assets/123917210/3ee88865-3b73-46a0-8625-054986c2b7c0" />
+<img src="https://github.com/Chokeys/Specialday_Portfolio/blob/main/image/역할2.png?raw=true"> <br/><br/>
 </div>
 </div><br/>
 
